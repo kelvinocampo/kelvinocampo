@@ -34,6 +34,12 @@ Desarrollador junior full stack con sede en Colombia, titulado en Tecnología en
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+# Descargar mi CV
+<a href="https://github.com/kelvinocampo/kelvinocampo/blob/main/assets/CV.pdf" download="CV_KevinOcampo"
+   style="display: inline-block; padding: 12px 24px; font-size: 16px; color: white; background-color: #007bff; border-radius: 8px; text-decoration: none; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+   Descargar CV
+</a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
@@ -41,8 +47,6 @@ Desarrollador junior full stack con sede en Colombia, titulado en Tecnología en
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Descargar mi CV
-[![Descargar CV](https://img.shields.io/badge/Descargar_CV-%23000000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/kelvinocampo/kelvinocampo/blob/main/CV.pdf)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
