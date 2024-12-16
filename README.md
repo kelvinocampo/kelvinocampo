@@ -38,8 +38,6 @@ Desarrollador junior full stack con sede en Colombia, titulado en Tecnología en
 
 [![Descargar CV](https://img.shields.io/badge/Descargar_CV-%23368BC1.svg?style=for-the-badge)](https://github.com/kelvinocampo/kelvinocampo/blob/main/assets/CV.pdf?raw=true)
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
