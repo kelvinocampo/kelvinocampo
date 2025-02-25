@@ -7,6 +7,7 @@ Desarrollador junior full stack web con sede en Colombia, titulado en Tecnologí
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks y Librerías
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -43,9 +44,6 @@ Desarrollador junior full stack web con sede en Colombia, titulado en Tecnologí
 
 [![Descargar CV](https://img.shields.io/badge/Descargar_CV-%23368BC1.svg?style=for-the-badge)](https://github.com/kelvinocampo/kelvinocampo/blob/main/assets/CV.pdf?raw=true)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kelvinocampo&theme=dark&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
