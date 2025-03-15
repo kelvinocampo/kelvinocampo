@@ -1,5 +1,5 @@
 # Kevin Ocampo:
-Desarrollador junior full stack web con sede en Colombia, titulado en Tecnología en Análisis y Desarrollo de Software del SENA. Poseo un conjunto diverso de habilidades y experiencia en el desarrollo tanto del front end como del backend de aplicaciones web. Mis competencias técnicas y mi enfoque en el aprendizaje continuo me permiten contribuir eficazmente a proyectos de desarrollo de software.
+Soy un desarrollador junior full stack web con formación en Tecnología en Análisis y Desarrollo de Software del SENA. Mi enfoque se centra en el aprendizaje continuo y la aplicación de mis habilidades técnicas para crear soluciones web eficientes y escalables. Me apasiona trabajar en proyectos desafiantes que me permitan crecer profesionalmente y contribuir al éxito del equipo.
 
 # Habilidades:
 
