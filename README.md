@@ -24,6 +24,7 @@ Soy un desarrollador junior full stack web con formación en Tecnología en Aná
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Informix](https://img.shields.io/badge/Informix-blue?logo=ibm&logoColor=white&style=for-the-badge)
 
 ### Pruebas y Desarrollo
 ![Jest](https://img.shields.io/badge/Jest-15c213?style=for-the-badge&logo=jest&logoColor=white)
