@@ -5,14 +5,14 @@ Soy un desarrollador junior full stack web con formación en Tecnología en Aná
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [🌱 SENAGROL](https://github.com/kelvinocampo/senagrol) | Ecommerce agrícola para gestión de ventas y transporte de cultivos. |
-| [🏞️ Tesoros de la India](https://github.com/davidar27/FrontedTesorosIndia) | App para registrar datos en tablas creadas por el usuario. |
+| [🌱 SENAGROL](https://github.com/kelvinocampo/SENAGROL_Client) | Aplicativo de comercio agrícola para gestión de ventas y transporte de cultivos. |
+| [🏞️ Tesoros de la India](https://github.com/davidar27/FrontedTesorosIndia) | Plataforma de ecommerce enfocada en el turismo rural en Colombia, con asistente inteligente de recomendaciones personalizadas. |
 
 👉 Mira más proyectos en mi **[Portafolio](https://kelvinocampo.vercel.app/)**  
 
 ## 🛠️ Habilidades:
 
-<div align="center">
+<div>
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
