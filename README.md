@@ -1,7 +1,18 @@
-# Kevin Ocampo:
+# 👨‍💻 Kevin Ocampo:
 Soy un desarrollador junior full stack web con formación en Tecnología en Análisis y Desarrollo de Software del SENA. Mi enfoque se centra en el aprendizaje continuo y la aplicación de mis habilidades técnicas para crear soluciones web eficientes y escalables. Me apasiona trabajar en proyectos desafiantes que me permitan crecer profesionalmente y contribuir al éxito del equipo.
 
-## Habilidades:
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [🌱 SENAGROL](https://github.com/kelvinocampo/senagrol) | Ecommerce agrícola para gestión de ventas y transporte de cultivos. |
+| [🏞️ Tesoros de la India](https://github.com/davidar27/FrontedTesorosIndia) | App para registrar datos en tablas creadas por el usuario. |
+
+👉 Mira más proyectos en mi **[Portafolio](https://kelvinocampo.vercel.app/)**  
+
+## 🛠️ Habilidades:
+
+<div align="center">
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,13 +62,28 @@ Soy un desarrollador junior full stack web con formación en Tecnología en Aná
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# Descargar mi CV
+</div>
 
+## ⬇️ Descargar mi CV
 [![Descargar CV](https://img.shields.io/badge/Descargar_CV-%23368BC1.svg?style=for-the-badge)](https://github.com/kelvinocampo/kelvinocampo/blob/main/assets/CV.pdf?raw=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kelvinocampo&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📫 Contáctame  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ocampo-osorio-4013202a4/)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinocampooso@gmail.com)  
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Kelvinocampo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvinocampo&theme=dark&hide_border=false" height="180px"/>
+</a>
+<a href="https://github.com/Kelvinocampo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
+</a>
+
+</div>
 
 
 ### ✍️ Random Dev Quote
