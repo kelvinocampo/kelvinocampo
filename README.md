@@ -10,6 +10,14 @@ Soy un desarrollador junior full stack web con formación en Tecnología en Aná
 
 👉 Mira más proyectos en mi **[Portafolio](https://kelvinocampo.vercel.app/)**  
 
+
+## ⬇️ Descargar mi CV
+[![Descargar CV](https://img.shields.io/badge/Descargar_CV-%23368BC1.svg?style=for-the-badge)](https://github.com/kelvinocampo/kelvinocampo/blob/main/assets/CV.pdf?raw=true)
+
+## 📫 Contáctame 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ocampo-osorio-4013202a4/)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinocampooso@gmail.com)  
+
 ## 🛠️ Habilidades:
 
 <div>
@@ -69,27 +77,7 @@ Soy un desarrollador junior full stack web con formación en Tecnología en Aná
 
 </div>
 
-## ⬇️ Descargar mi CV
-[![Descargar CV](https://img.shields.io/badge/Descargar_CV-%23368BC1.svg?style=for-the-badge)](https://github.com/kelvinocampo/kelvinocampo/blob/main/assets/CV.pdf?raw=true)
-
-## 📫 Contáctame  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ocampo-osorio-4013202a4/)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinocampooso@gmail.com)  
-
 ---
-
-<div align="center">
-
-<a href="https://github.com/Kelvinocampo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvinocampo&theme=dark&hide_border=false" height="180px"/>
-</a>
-<a href="https://github.com/Kelvinocampo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinocampo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
-</a>
-
-</div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
